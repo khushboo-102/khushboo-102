@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboo-102&label=Profile%20views&color=0e75b6&style=flat" alt="khushboo-102" /> </p>
 
-- 🌱 I’m currently learning **p5.js by practicing exercises from the book Nature of Code **
+- 🌱 I’m currently learning **Astro Framework **
 
 - 👨‍💻 All of my projects are available at [https://github.com/](https://github.com/)
 
